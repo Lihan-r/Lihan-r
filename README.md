@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Lihan 👋
+I'm a junior Computer Science student at Queens College (CUNY) passionate about building full-stack applications — from secure backend architectures to clean, responsive UIs. I love tackling interesting problems and learning new technologies along the way.
+About Me
 
-<!--
-**Lihan-r/Lihan-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently exploring Python, FastAPI, and dabbling with Docker, Kubernetes & CI/CD
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+Languages: Java, TypeScript, JavaScript, Python,
+Frontend: React.js, Next.js, Tailwind CSS, HTML/CSS
+Backend: Spring Boot, Spring Security, Node.js, FastAPI (learning)
+Databases: PostgreSQL, MongoDB
+Tools & Other: Git/GitHub, Docker, CI/CD, Jupyter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Get in Touch - Feel free to reach out always happy to talk!
+📧 rashidlihan@gmail.com
+💼 LinkedIn 
