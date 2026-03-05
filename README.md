@@ -1,6 +1,6 @@
 # Hi, I'm Lihan 👋
 
-I'm a junior Computer Science student at Queens College (CUNY) passionate about building full-stack applications — from secure backend architectures to clean, responsive UIs. I love tackling interesting problems and learning new technologies along the way.
+I'm a junior Computer Science student at Queens College (CUNY) passionate about building full-stack applications, from secure backend architectures to clean, responsive UIs. I love tackling interesting problems and learning new technologies along the way.
 
 ## About Me
 - 🌱 Currently exploring Python, FastAPI, and dabbling with Docker, Kubernetes & CI/CD
